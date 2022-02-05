@@ -7,8 +7,8 @@ layout: default
 
 <table style="border:none">
   <tr>
-    <td> <img src="./images/profile.jpg" width="200"/> </td>
-    <td> Dr. <b>Umberto Villa</b> <br> Research Assistant Professor <br>
+    <td style="border:none"> <img src="./images/profile.jpg" width="200"/> </td>
+    <td style="border:none"> Dr. <b>Umberto Villa</b> <br> Research Assistant Professor <br>
       Electrical & Systems Engineering <br>
       McKelvey School of Engineering <br>
       Ph.D.in Applied Mathematics, Emory University (2012) <br>
