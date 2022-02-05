@@ -4,10 +4,20 @@ layout: default
 ---
 
 ### Principal Investigator
-|<!-- -->   |   |
-| :---------------:|:-------|
-| <img src="./images/profile.jpg" width="200"/>| Dr. **Umberto Villa** <br> Research Assistant Professor <br> Electrical & Systems Engineering <br>  McKelvey School of Engineering <br> Ph.D.in Applied Mathematics, Emory University (2012) <br> [Biography and Research](https://uvilla.github.io)|
 
+<table style="border:none">
+  <tr>
+    <td> <img src="./images/profile.jpg" width="200"/> </td>
+    <td> Dr. <b>Umberto Villa</b> <br> Research Assistant Professor <br>
+      Electrical & Systems Engineering <br>
+      McKelvey School of Engineering <br>
+      Ph.D.in Applied Mathematics, Emory University (2012) <br>
+      <a href="https://uvilla.github.io">Biography and Research</a>
+</td>
+  </tr>
+</table>
+
+  
 
 ### Current members
 - **Luke Lozenski** (2020-) <br> Ph.D. Candidate in System Science and Mathematics <br> McKelvey School of Engineering <br> **Research**: numerical optimization, machine learning, photoacoustic tomography 
