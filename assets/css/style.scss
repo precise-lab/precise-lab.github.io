@@ -3,8 +3,12 @@
 
 @import "{{ site.theme }}";
 
-table, td, th {
-  border: empty;
+td {
+  border: none;
+}
+
+th {
+  border: none;
 }
 
 .page-header {
