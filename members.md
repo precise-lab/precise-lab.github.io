@@ -7,7 +7,7 @@ layout: default
 
 <table style="border:none">
   <tr>
-    <td style="border:none"> <img src="./images/profile.jpg" width="200"/> </td>
+    <td style="border:none"> <img src="./images/profile.jpg" width="150"/> </td>
     <td style="border:none"> Dr. <b>Umberto Villa</b> <br> Research Assistant Professor <br>
       Electrical & Systems Engineering <br>
       McKelvey School of Engineering <br>
