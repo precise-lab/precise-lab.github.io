@@ -3,16 +3,6 @@
 
 @import "{{ site.theme }}";
 
-.main-content {
-@include td {
-  border: none;
-}
-
-@include th {
-  border: none;
-}
-  
-}
 
 .page-header {
   color: $header-heading-color;
