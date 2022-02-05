@@ -3,12 +3,15 @@
 
 @import "{{ site.theme }}";
 
-td {
+.main-content {
+@include td {
   border: none;
 }
 
-th {
+@include th {
   border: none;
+}
+  
 }
 
 .page-header {
