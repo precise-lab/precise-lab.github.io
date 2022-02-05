@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+table, td, th {
+  border: empty;
+}
+
 .page-header {
   color: $header-heading-color;
   text-align: center;
