@@ -4,7 +4,7 @@ layout: default
 ---
 
 ### Principal Investigator
-|   |   |
+|<span>   |   |
 | :---------------:|:-------|
 | <img src="./images/profile.jpg" width="200"/>| Dr. **Umberto Villa** <br> Research Assistant Professor <br> Electrical & Systems Engineering <br>  McKelvey School of Engineering <br> Ph.D.in Applied Mathematics, Emory University (2012) <br> [Biography and Research](https://uvilla.github.io)|
 
