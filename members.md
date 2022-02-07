@@ -20,7 +20,19 @@ layout: default
   
 
 ### Current members
-- **Luke Lozenski** (2020-) <br> Ph.D. Candidate in System Science and Mathematics <br> McKelvey School of Engineering <br> **Research**: numerical optimization, machine learning, photoacoustic tomography 
+
+<table style="border:none">
+  <tr>
+    <td style="border:none"> <img src="./images/LukeLozenski.png" width="150"/> </td>
+    <td style="border:none"> <b>Luke Lozenski</b> (2020-) <br>
+      Ph.D. Candidate in System Science and Mathematics <br>
+      McKelvey School of Engineering <br>
+      <b>Research</b>: numerical optimization, machine learning, photoacoustic tomography 
+</td>
+  </tr>
+</table>
+
+- 
 
 ### Collaborators
 
