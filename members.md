@@ -32,8 +32,6 @@ layout: default
   </tr>
 </table>
 
-- 
-
 ### Collaborators
 
 - Dr. [Mark Anastasio](https://bioengineering.illinois.edu/directory/profile/maa) and the Computational Imaging Science Laboratory ([CISL](https://anastasio.bioengineering.illinois.edu)) at the University of Illinois at Urbana-Champaign
